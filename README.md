@@ -18,7 +18,7 @@ My name is Ha. I am an Student in Computer Science, majoring in Artificial Intel
 ![Seaborn](https://img.shields.io/badge/Seaborn-%2300287B.svg?style=plastic&logo=Seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=Plotly&logoColor=white)
 # 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyendinhhieu1309&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TranThiThuHa04&theme=tokyonight&show_icons=true)
 
 
 # 👨‍💻 All Of My Projects:
